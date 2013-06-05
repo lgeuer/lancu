@@ -8,9 +8,7 @@ WARNING:
 --------
 
 At this stage lancu has to be considered to be ALPHA quality!
-
 There is currently no documentation how the program works since whatever I write down will most likly be out of date a few days later.
-
 I will write a documentation when the development has reached a stage where it might make sense to use it. 
 
 
